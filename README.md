@@ -107,6 +107,8 @@ Curated open-source software, desktop clients, mobile wallets, developer SDKs, a
 | **[Rainbow Extension](https://github.com/rainbow-me/browser-extension)** 🌈 | [![GitHub_Stars](https://img.shields.io/github/stars/rainbow-me/browser-extension?style=social&color=white)](https://github.com/rainbow-me/browser-extension/stargazers) | GPL-3.0 | TypeScript / React | Speed-optimized Web3 browser extension featuring keyboard shortcuts and built-in swaps. |
 | **[Rabby Desktop](https://github.com/RabbyHub/RabbyDesktop)** 🖥️ | [![GitHub_Stars](https://img.shields.io/github/stars/RabbyHub/RabbyDesktop?style=social&color=white)](https://github.com/RabbyHub/RabbyDesktop/stargazers) | MIT | Electron / React | Isolated desktop Web3 client for hardware wallets and secure watch-only address management. |
 
+| **[BitTool Signer for iOS](https://github.com/bitbill/bittool-signer-ios)** | — | MIT | iOS / JavaScript engine | Free software for a dedicated offline iPhone: reviews signing requests locally and returns signatures by QR code. No independent third-party security audit. |
+
 ---
 
 ## 🎯 Key Selection Criteria
