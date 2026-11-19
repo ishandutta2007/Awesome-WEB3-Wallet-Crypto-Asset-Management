@@ -106,7 +106,6 @@ Curated open-source software, desktop clients, mobile wallets, developer SDKs, a
 | **[Keystone Firmware](https://github.com/KeystoneHQ/keystone3-firmware)** 📦 | [![GitHub_Stars](https://img.shields.io/github/stars/KeystoneHQ/keystone3-firmware?style=social&color=white)](https://github.com/KeystoneHQ/keystone3-firmware/stargazers) | Apache-2.0 | Rust / C | Open-source firmware for air-gapped QR-code hardware wallets compatible with MetaMask, Rabby, and Sparrow. |
 | **[Rainbow Extension](https://github.com/rainbow-me/browser-extension)** 🌈 | [![GitHub_Stars](https://img.shields.io/github/stars/rainbow-me/browser-extension?style=social&color=white)](https://github.com/rainbow-me/browser-extension/stargazers) | GPL-3.0 | TypeScript / React | Speed-optimized Web3 browser extension featuring keyboard shortcuts and built-in swaps. |
 | **[Rabby Desktop](https://github.com/RabbyHub/RabbyDesktop)** 🖥️ | [![GitHub_Stars](https://img.shields.io/github/stars/RabbyHub/RabbyDesktop?style=social&color=white)](https://github.com/RabbyHub/RabbyDesktop/stargazers) | MIT | Electron / React | Isolated desktop Web3 client for hardware wallets and secure watch-only address management. |
-
 | **[BitTool Signer for iOS](https://github.com/bitbill/bittool-signer-ios)** | — | MIT | iOS / JavaScript engine | Free software for a dedicated offline iPhone: reviews signing requests locally and returns signatures by QR code. No independent third-party security audit. |
 
 ---
